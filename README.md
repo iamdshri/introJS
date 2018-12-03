@@ -22,6 +22,6 @@ It will extend your web application's capabilities and allow you to minimize the
  </ol>
  </li>
  <li>
-  Step 3: After executing the function, you will see an introduction pane. Easy Right :)
+  Step 3: After executing the function, you will see an introduction pane. Easy Right :) <a href="/LICENSE">LIC</a>
  </li>
 </ul>
