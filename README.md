@@ -23,6 +23,8 @@ It will extend your web application's capabilities and allow you to minimize the
  </ol>
  </li>
  <li>
-  Step 4: After executing the function, you will see an introduction pane. Easy Right :) <a href="/LICENSE">LIC</a>
+  Step 4: After executing the function, you will see an introduction pane. <br>
+  <img src="bg.PNG"/>
+  <br>Easy Right :)
  </li>
 </ul>
