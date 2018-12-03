@@ -4,7 +4,8 @@ A simple jQuery function which provide a tutorial kind of functionality for your
 It will extend your web application's capabilities and allow you to minimize the training part for your application.
 
 # USAGE :::::::
-<ul><li> Step 1: Include the introJS in your application's head/body/footer as per your framework structure. <br><pre><code>&#x3C;script src=&#x22;intro.js&#x22;&#x3E;&#x3C;/script&#x3E;</code></pre></li>
+<ul><li> Step 1: Include the introJS in your application's head/body/footer as per your framework structure. <br><pre><code>&#x3C;script src=&#x22;intro.js&#x22;&#x3E;&#x3C;/script&#x3E;</code></pre>
+ <b>Note::</b> <u>jQuery is prerequisite. <b>Place it above the introJS</b></u>. <br> You can use jQuery version of your choice, for easy reference: <pre><code>&#x3C;script src=&#x22;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&#x22;&#x3E;&#x3C;/script&#x3E;</code></pre></li>
  <li>Step 2: Provide classes for your elements for which introduction is required.<br><i>Example - </i><br>
  <pre><code> &#x3C;div class=&#x22;section1&#x22;&#x3E;Section 1&#x3C;/div&#x3E;
  &#x3C;div class=&#x22;section2&#x22;&#x3E;Section 2&#x3C;/div&#x3E;
