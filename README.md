@@ -27,4 +27,5 @@ It will extend your web application's capabilities and allow you to minimize the
   <img src="intro.PNG"/>
   <br>Easy Right :)
  </li>
+ <li>CSS Class - `<i>above-highlight</i>` is used to highlight the element above the shadowed-overlay. So if you want you can add your custom css in your css file using that class which will be applied when the introduction is triggered for that element</li>
 </ul>
