@@ -24,7 +24,7 @@ It will extend your web application's capabilities and allow you to minimize the
  </li>
  <li>
   Step 4: After executing the function, you will see an introduction pane. <br>
-  <img src="bg.PNG"/>
+  <img src="intro.PNG"/>
   <br>Easy Right :)
  </li>
 </ul>
