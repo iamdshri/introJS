@@ -2,6 +2,8 @@
 
 A simple jQuery function which provide a tutorial kind of functionality for your web application.
 It will extend your web application's capabilities and allow you to minimize the training part for your application.
+First time visitors can get introduced to your site content/functionality.
+A new digital sitemap.
 
 # USAGE :::::::
 <ul><li> Step 1: Include the introJS in your application's head/body/footer as per your framework structure. <br><pre><code>&#x3C;script src=&#x22;intro.js&#x22;&#x3E;&#x3C;/script&#x3E;</code></pre>
