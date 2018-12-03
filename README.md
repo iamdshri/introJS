@@ -10,7 +10,7 @@ It will extend your web application's capabilities and allow you to minimize the
  <pre><code> &#x3C;div class=&#x22;section1&#x22;&#x3E;Section 1&#x3C;/div&#x3E;
  &#x3C;div class=&#x22;section2&#x22;&#x3E;Section 2&#x3C;/div&#x3E;
  &#x3C;div class=&#x22;section3&#x22;&#x3E;Section 3&#x3C;/div&#x3E;</code></pre></li>
- <li> Step 2: Call JS function `initiateIntro(arrOfJson,nextBtnClassName,closeBtnClassName,enableScroll)` on document load.<br>
+ <li> Step 3: Call JS function `initiateIntro(arrOfJson,nextBtnClassName,closeBtnClassName,enableScroll)` on document load.<br>
  <i>Explaining -</i><br>
    <ol><li>There are 4 parameters for the function, as below ::</li>
    <li><i>arrOfJson - </i> You need to provide a string of json array.<br> Example::<br>
@@ -23,6 +23,6 @@ It will extend your web application's capabilities and allow you to minimize the
  </ol>
  </li>
  <li>
-  Step 3: After executing the function, you will see an introduction pane. Easy Right :) <a href="/LICENSE">LIC</a>
+  Step 4: After executing the function, you will see an introduction pane. Easy Right :) <a href="/LICENSE">LIC</a>
  </li>
 </ul>
